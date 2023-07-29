@@ -1,0 +1,28 @@
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+
+  #fileimage{
+    display: none;
+  }
+
+  #labelimage:hover{
+    opacity: 0.85;
+    transition: opacity .6s;
+    -moz-transition: opacity .6s;
+    -webkit-transition: opacity .6s;
+    -o-transition: opacity .6s;
+}
+
+.spinner-grow{
+    margin-left: -85px !important;
+}
+
+#camera{
+    margin-left: 79% !important;
+    margin-top: -35px;
+    margin-bottom: 20px;
+}

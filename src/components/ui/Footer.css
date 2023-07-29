@@ -1,0 +1,13 @@
+  footer > div span.text-muted{
+    color: #ffffff !important;
+  }
+
+footer.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #24306E !important;
+}

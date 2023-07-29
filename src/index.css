@@ -1,0 +1,34 @@
+.button-standard{
+  background-color: #24306E;
+  color: #ffffff;
+}
+
+.button-standard:hover{
+  background-color: #67b5dd !important;
+}
+
+nav#navbar-example2{
+  background-color: #67b5dd !important;
+  color: #ffffff !important;
+}
+
+.nav-link:hover{
+  background-color: #24306E !important;
+}
+
+.nav-link.active{
+  background-color: #24306E !important;
+}
+
+.nav-link{
+  color: #ffffff !important;
+}
+
+.navbar-brand{
+  color: #ffffff !important;
+}
+
+/* pages */
+.needs-validation{
+  margin-bottom: 10vh;
+}
